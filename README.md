@@ -53,11 +53,3 @@ Determine whether the province...is a province, or a territory:
 Get the Postal abbreviations of each province/territory:
 
     CanadaEh::Province.find_by_name('Ontario').abbreviation
-
-## Contributing
-
-1. Fork it ( http://github.com/<my-github-username>/canada_eh/fork )
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create new Pull Request
