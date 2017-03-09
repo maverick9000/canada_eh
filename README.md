@@ -53,3 +53,7 @@ Determine whether the province...is a province, or a territory:
 Get the Postal abbreviations of each province/territory:
 
     CanadaEh::Province.find_by_name('Ontario').abbreviation
+
+## Download
+
+https://rubygems.org/gems/canada_eh
