@@ -1,0 +1,80 @@
+[   
+  {
+    "id":1,
+    "name":"Alberta",
+    "abbreviation":"AB",
+    "is_territory":false
+  },
+  {
+    "id":2,
+    "name":"British Columbia",
+    "abbreviation":"BC",
+    "is_territory":false
+  },
+  {
+    "id":3,
+    "name":"Manitoba", 
+    "abbreviation":"MB",
+    "is_territory":false
+  },
+  {
+    "id":4,
+    "name":"New Brunswick",
+    "abbreviation":"NB",
+    "is_territory":false
+  },
+  {
+    "id":5,
+    "name":"Newfoundland and Labrador",
+    "abbreviation":"NL",
+    "is_territory":false
+  },
+  {
+    "id":6,
+    "name":"Northwest Territories",
+    "abbreviation":"NT",
+    "is_territory":true
+  },
+  {
+    "id":7,
+    "name":"Nova Scotia",
+    "abbreviation":"NS",
+    "is_territory":false
+  },
+  {
+    "id":8,
+    "name":"Nunavut",
+    "abbreviation":"NU",
+    "is_territory":true
+  },
+  {
+    "id":9,
+    "name":"Ontario",
+    "abbreviation":"ON",
+    "is_territory":false
+  },
+  {
+    "id":10,
+    "name":"Prince Edward Island",
+    "abbreviation":"PE",
+    "is_territory":false
+  },
+  {
+    "id":11,
+    "name":"Quebec",
+    "abbreviation":"QC",
+    "is_territory":false
+  },
+  {
+    "id":12,
+    "name":"Saskatchewan",
+    "abbreviation":"SK",
+    "is_territory":false
+  },
+  {
+    "id":13,
+    "name":"Yukon",
+    "abbreviation":"YT",
+    "is_territory":true
+  }
+]

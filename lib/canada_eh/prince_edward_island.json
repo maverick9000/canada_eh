@@ -1,0 +1,14 @@
+[
+  {
+    "id":145,
+    "name":"Charlottetown",
+    "province_id":10,
+    "is_capital":true
+  },
+  {
+    "id":146,
+    "name":"Summerside",
+    "province_id":10,
+    "is_capital":false
+  }
+]

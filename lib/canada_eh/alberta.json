@@ -1,0 +1,88 @@
+[
+  {
+    "id":1,
+    "name":"Airdrie",
+    "province_id":1,
+    "is_capital":false
+  },{
+    "id":2,
+    "name":"Brooks",
+    "province_id":1,
+    "is_capital":false
+  },{
+    "id":3,
+    "name":"Cold Lake",
+    "province_id":1,
+    "is_capital":false
+  },{
+    "id":4,
+    "name":"Edmonton",
+    "province_id":1,
+    "is_capital":true
+  },{
+    "id":5,
+    "name":"Fort Saskatchewan",
+    "province_id":1,
+    "is_capital":false
+  },{
+    "id":6,
+    "name":"Lacombe",
+    "province_id":1,
+    "is_capital":false
+  },{
+    "id":7,
+    "name":"Leduc",
+    "province_id":1,
+    "is_capital":false
+  },{
+    "id":8,
+    "name":"Lloydminster",
+    "province_id":1,
+    "is_capital":false
+  },{
+    "id":9,
+    "name":"Spruce Grove",
+    "province_id":1,
+    "is_capital":false
+  },{
+    "id":10,
+    "name":"St. Albert",
+    "province_id":1,
+    "is_capital":false
+  },{
+    "id":11,
+    "name":"Wetaskiwin",
+    "province_id":1,
+    "is_capital":false
+  },{
+    "id":12,
+    "name":"Camrose",
+    "province_id":1,
+    "is_capital":false
+  },{
+    "id":13,
+    "name":"Grande Prairie",
+    "province_id":1,
+    "is_capital":false
+  },{
+    "id":14,
+    "name":"Lethbridge",
+    "province_id":1,
+    "is_capital":false
+  },{
+    "id":15,
+    "name":"Medicine Hat",
+    "province_id":1,
+    "is_capital":false
+  },{
+    "id":16,
+    "name":"Red Deer",
+    "province_id":1,
+    "is_capital":false
+  },{
+    "id":17,
+    "name":"Calgary",
+    "province_id":1,
+    "is_capital":false
+  }
+]

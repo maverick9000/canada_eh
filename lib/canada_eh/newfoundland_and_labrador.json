@@ -1,0 +1,20 @@
+[
+  {
+    "id":86,
+    "name":"Corner Brook",
+    "province_id":5,
+    "is_capital":false
+  },
+  {
+    "id":87,
+    "name":"Mount Pearl",
+    "province_id":5,
+    "is_capital":false
+  },
+  {
+    "id":88,
+    "name":"St. John's",
+    "province_id":5,
+    "is_capital":true
+  }
+]

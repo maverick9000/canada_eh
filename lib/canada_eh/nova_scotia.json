@@ -1,0 +1,20 @@
+[
+  {
+    "id":90,
+    "name":"Halifax",
+    "province_id":7,
+    "is_capital":true
+  },
+  {
+    "id":91,
+    "name":"Sydney",
+    "province_id":7,
+    "is_capital":false
+  },
+  {
+    "id":92,
+    "name":"Darthmouth",
+    "province_id":7,
+    "is_capital":false
+  }
+]
