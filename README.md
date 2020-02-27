@@ -18,13 +18,13 @@ Or install it yourself as:
 
 ## Usage
 
-###Example###
+### Example
 
     CanadaEh.just_provinces.collect{|p|p.name}
 
     ["Alberta", "British Columbia", "Manitoba", "New Brunswick", "Newfoundland and Labrador", "Nova Scotia", "Ontario", "Prince Edward Island", "Quebec", "Saskatchewan"]
 
-###Here is some more stuff you can do###
+### Here is some more stuff you can do
 
     CanadaEh.just_territories.collect{|p|p.name}
 
