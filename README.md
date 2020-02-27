@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.org/maverick9000/canada_eh.png?branch=master)](https://travis-ci.org/maverick9000/canada_eh) [![Coverage Status](https://img.shields.io/coveralls/maverick9000/canada_eh.svg)](https://coveralls.io/r/maverick9000/canada_eh?branch=master) [![Gem Version](https://badge.fury.io/rb/canada_eh.svg)](http://badge.fury.io/rb/canada_eh)
-
 # CanadaEh
 
 This ruby gem gives you Canada categorized by provinces and their capitals, territories and their capitals as well as all the official cities in each province and territory. 
