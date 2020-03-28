@@ -6,8 +6,8 @@ require 'canada_eh/version'
 Gem::Specification.new do |spec|
   spec.name          = "canada_eh"
   spec.version       = CanadaEh::VERSION
-  spec.authors       = ["Maverick"]
-  spec.email         = ["maverick6688@gmail.com"]
+  spec.authors       = ["Maverick Stoklosa"]
+  spec.email         = ["stoklomav@gmail.com"]
   spec.summary       = %q{Canadian Provinces broken down into cities, municipalities and townships.}
   spec.description   = %q{Giving you the ability to drill down from top level geographic regions like provinces all the way down to tiny Canadian towns.}
   spec.homepage      = "http://github.com/maverick9000/canada_eh"
